@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tran Duy Tung</h1>
+<h1 align="center">Xin chào 👋, Tôi là Trần Duy Tùng</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<p align="center">Kien Xuong, Thai Binh</p>
+<p align="center">Kiến Xương, Thái Bình</p>
 
-✍ I'm a student of: CODEGYM.
-
-🌱 I’m currently learning **JAVA BOOTCAMP.**
+✍ Tôi đang học JAVA BOOTCAMP tại CODEGYM.
 
 
-## 📫 Contact me:
+## 📫 Email: gnut1099@gmail.com
 
 <p align="center">
   <a href="https://www.facebook.com/dtroyal1102" alt="Facebook">
@@ -19,12 +17,9 @@
   <a href="https://www.instagram.com/gnut1099" alt="Instagram" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
-  <a href="gnut1099@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
 </p>
 
-## 🌱 Basic Skills:
+## 🌱 Kỹ năng cơ bản:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
