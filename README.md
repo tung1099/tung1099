@@ -1,8 +1,8 @@
-<h1 align="center">Xin chào 👋, Tôi là Trần Duy Tùng</h1>
+<h1 align="center">Xin chào 👋</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<p align="center">Kiến Xương, Thái Bình</p>
+<p align="center">Thaibinh, Vietnam</p>
 
-✍ Tôi đang học JAVA BOOTCAMP tại CODEGYM.
+✍ Tôi học JAVA BOOTCAMP tại CODEGYM.
 
 
 ## 📫 Email: gnut1099@gmail.com
@@ -19,11 +19,9 @@
   </a>
 </p>
 
-## 🌱 Kỹ năng cơ bản:
+## 🌱 Basic skills:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
   <img src="https://tvd12.com/wp-content/uploads/springboot.jpeg" width="48" height="48"/>
