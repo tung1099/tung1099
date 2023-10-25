@@ -1,9 +1,5 @@
-<h1 align="center">Xin chào 👋</h1>
+<h1 align="center">Hi👋</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<p align="center">Thaibinh, Vietnam</p>
-
-✍ Tôi học JAVA BOOTCAMP tại CODEGYM.
-
 
 ## 📫 Email: gnut1099@gmail.com
 
